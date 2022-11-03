@@ -23,3 +23,4 @@
 ## 2.2 – Thu, October 27, 2022
 
 - **90** [Exercise on Packaging a Python Code](https://github.com/Simulation-Software-Engineering/Lecture-Material/blob/main/03_building_and_packaging/pypi_exercise.md)
+- Some more stuff
