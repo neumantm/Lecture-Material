@@ -11,6 +11,8 @@ Material of the Simulation Software Engineering lecture. There are different way
 
 Please note that we update the material over the course of each semester.
 
+Some Changes.
+
 ## List of chapters
 
 1. [Version Control](https://github.com/Simulation-Software-Engineering/Lecture-Material/tree/main/01_version_control)
