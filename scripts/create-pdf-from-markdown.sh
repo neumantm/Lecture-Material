@@ -3,6 +3,8 @@
 PANDOC_SLIDE_OPTIONS=("--pdf-engine=xelatex" "-t beamer" "-V aspectratio=169" "-V linkcolor:blue" "-V fontsize=12pt" "--listings" "-s")
 PANDOC_TEXT_OPTIONS=("--pdf-engine=xelatex" "-V geometry:a4paper" "-V geometry:left=2.5cm" "-V geometry:right=2.5cm" "-V geometry:bottom=2.5cm" "-V geometry:top=2.5cm" "-V colorlinks:true" "-V linkcolor:blue" "-V fontsize=10pt" "--listings" "-s")
 
+foo=bar
+
 if [[ $# == 1 ]];
 then
     TARGET_FILES="$1"
